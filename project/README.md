@@ -4,7 +4,7 @@ A full-stack, real-time device monitoring and anomaly detection platform built w
 
 ## 🚀 Features
 
-- **Real-time Device Monitoring** - Live telemetry data streaming via WebSockets
+- **Real-time Device Monitoring** - <br> Live telemetry data streaming via WebSockets
 - **ML-Powered Anomaly Detection** - Smart fault detection using machine learning
 - **Admin Portal** - React-based dashboard with live charts and device management
 - **JWT Authentication** - Enterprise-grade security with RBAC
