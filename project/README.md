@@ -125,6 +125,3 @@ The platform is designed for enterprise deployment with:
 - Comprehensive logging
 - Health monitoring
 
-## 📄 License
-
-MIT License - see LICENSE file for details.
